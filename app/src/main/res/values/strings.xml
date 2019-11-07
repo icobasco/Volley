@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Volley</string>
+    <string name="request_string">Request String</string>
+    <string name="request_obj_json">Request Obj Json</string>
+</resources>
